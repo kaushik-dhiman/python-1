@@ -1,3 +1,4 @@
+#database connectivity 
 from tkinter import *
 import mysql.connector
 
